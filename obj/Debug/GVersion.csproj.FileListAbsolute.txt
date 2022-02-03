@@ -1,0 +1,7 @@
+C:\Users\cjorellana.DESKTOP-PAB7G3H\Source\Repos\GVersion\GVersion\bin\Debug\GVersion.exe.config
+C:\Users\cjorellana.DESKTOP-PAB7G3H\Source\Repos\GVersion\GVersion\bin\Debug\GVersion.exe
+C:\Users\cjorellana.DESKTOP-PAB7G3H\Source\Repos\GVersion\GVersion\bin\Debug\GVersion.pdb
+C:\Users\cjorellana.DESKTOP-PAB7G3H\Source\Repos\GVersion\GVersion\obj\Debug\GVersion.csprojAssemblyReference.cache
+C:\Users\cjorellana.DESKTOP-PAB7G3H\Source\Repos\GVersion\GVersion\obj\Debug\GVersion.csproj.CoreCompileInputs.cache
+C:\Users\cjorellana.DESKTOP-PAB7G3H\Source\Repos\GVersion\GVersion\obj\Debug\GVersion.exe
+C:\Users\cjorellana.DESKTOP-PAB7G3H\Source\Repos\GVersion\GVersion\obj\Debug\GVersion.pdb
